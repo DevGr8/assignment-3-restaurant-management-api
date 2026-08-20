@@ -41,5 +41,5 @@ Protected routes need header: `Authorization: Bearer <token>`
 - Request logger middleware logs method/path/time
 - Separate folders for routes, models, controllers
 
-## Notes
+## Author:
 Ayush Kumar Singh
